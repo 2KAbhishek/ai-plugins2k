@@ -61,7 +61,7 @@ Planning to add more language server and mcp plugins.
 
 ### 🌈 Inspiration
 
-claude-plugins2k was created to enhance Claude Code with better language server support for various programming languages.
+Needed a way to quickly share my personal Claude Code plugins across systems.
 
 ### 💡 Challenges/Learnings
 

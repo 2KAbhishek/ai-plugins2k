@@ -25,9 +25,9 @@
             ".gemspec": "ruby",
             ".rake": "ruby",
             ".rb": "ruby",
-            ".rbw": "ruby"
+            ".rbw": "ruby",
             ".rbx": "ruby",
-            ".ru": "ruby",
+            ".ru": "ruby"
           }
         }
       }

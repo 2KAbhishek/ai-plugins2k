@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins2k",
-  "description": "Claude Code extensions by 2KAbhishek",
+  "name": "ai-plugins2k",
+  "description": "2kAbhishek's Claude Code extensions",
   "owner": {
     "name": "2KAbhishek",
     "email": "25423853+2KAbhishek@users.noreply.github.com"

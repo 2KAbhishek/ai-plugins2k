@@ -1,88 +1,72 @@
 <div align = "center">
 
-<h1><a href="https://github.com/2kabhishek/claude-plugins">claude-plugins</a></h1>
+<h1><a href="https://github.com/2kabhishek/claude-plugins2k">claude-plugins2k</a></h1>
 
-<a href="https://github.com/2KAbhishek/claude-plugins/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/claude-plugins?style=flat&color=eee&label="> </a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/claude-plugins2k?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/claude-plugins/graphs/contributors">
-<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/claude-plugins?style=flat&color=ffaaf2&label=People"> </a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/claude-plugins2k?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/claude-plugins/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/claude-plugins?style=flat&color=98c379&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/claude-plugins2k?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/claude-plugins/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/claude-plugins?style=flat&color=66a8e0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/claude-plugins2k?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/claude-plugins/watchers">
-<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/claude-plugins?style=flat&color=f5d08b&label=Watches"> </a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/claude-plugins2k?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/claude-plugins/pulse">
-<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/claude-plugins?style=flat&color=e06c75&label="> </a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/claude-plugins2k?style=flat&color=e06c75&label="> </a>
 
-<h3>Short Sweet Headline 🎇🎉</h3>
-
-<figure>
-  <img src="docs/images/screenshot.png" alt="claude-plugins in action">
-  <br/>
-  <figcaption>claude-plugins in action</figcaption>
-</figure>
+<h3>My Personal Claude Plugins 🤖🧩</h3>
 
 </div>
 
-claude-plugins is a `<utility/tool>` that allows `<target_audience>` to `<action>`.
+My personal collection of Claude Code plugins to enhance development experience.
 
-## ✨ Features
+## 📦 Available Plugins
 
-- Comes with a ready to go README template
-- Works with [mkrepo](https://github.com/2kabhishek/mkrepo)
+- [ruby-lsp](./plugins/ruby-lsp/README.md) - Ruby language server
 
 ## ⚡ Setup
 
 ### ⚙️ Requirements
 
-- foo >= bar
-- bazz
+- Claude Code CLI
+- Language-specific requirements (see individual plugin READMEs)
 
 ### 💻 Installation
 
-Installing claude-plugins is as simple as cloning and symlinking!
-
 ```bash
-git clone https://github.com/2kabhishek/claude-plugins
-cd claude-plugins
-<install_command>
+# After opening claude code
+/plugin marketplace add 2kabhishek/claude-plugins2k
 ```
 
 ## 🚀 Usage
 
-```bash
-USAGE:
-    claude-plugins [FLAGS] [OPTIONS]
-Example:
-    claude-plugins
-```
+After installing the required language servers, the plugins will list within claude code and can be installed/enabled like any other plugin.
 
 ## 🏗️ What's Next
 
-Planning to add `<feature/module>`.
+Planning to add more language server and mcp plugins.
 
 ### ✅ To-Do
 
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
+- [x] Add Ruby LSP
+- [ ] Add Eslint LSP
 
 ## 🧑‍💻 Behind The Code
 
 ### 🌈 Inspiration
 
-claude-plugins was inspired by `<reason/idea>`.
+claude-plugins2k was created to enhance Claude Code with better language server support for various programming languages.
 
 ### 💡 Challenges/Learnings
 
-- The main challenges were `<issue/difficulty>`
-- I learned about `<learning/accomplishment>`
+- Understanding Claude Code plugin architecture
+- Configuring LSP servers for optimal performance
 
 ### 🧰 Tooling
 
@@ -102,7 +86,7 @@ claude-plugins was inspired by `<reason/idea>`.
 
 <strong>⭐ hit the star button if you found this useful ⭐</strong><br>
 
-<a href="https://github.com/2KAbhishek/claude-plugins">Source</a>
+<a href="https://github.com/2KAbhishek/claude-plugins2k">Source</a>
 | <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
 | <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
 | <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>

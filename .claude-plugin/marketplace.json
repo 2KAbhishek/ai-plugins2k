@@ -1,0 +1,36 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-plugins2k",
+  "description": "Claude Code extensions by 2KAbhishek",
+  "owner": {
+    "name": "2KAbhishek",
+    "email": "25423853+2KAbhishek@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "ruby-lsp",
+      "description": "Ruby language server for enhanced code intelligence",
+      "version": "1.0.0",
+      "author": {
+        "name": "2KAbhishek",
+        "email": "25423853+2KAbhishek@users.noreply.github.com"
+      },
+      "source": "./plugins/ruby-lsp",
+      "category": "development",
+      "strict": false,
+      "lspServers": {
+        "ruby": {
+          "command": "ruby-lsp",
+          "extensionToLanguage": {
+            ".gemspec": "ruby",
+            ".rake": "ruby",
+            ".rb": "ruby",
+            ".rbw": "ruby"
+            ".rbx": "ruby",
+            ".ru": "ruby",
+          }
+        }
+      }
+    }
+  ]
+}
